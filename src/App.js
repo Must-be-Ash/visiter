@@ -24,9 +24,10 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Here &rsquo; s how many people have sat there before you!</h1>
-        <p>that &#39; s a lot of asses</p>
+        <h1>Here&rsquo;s how many people have sat there before you!</h1>
         <div className="counter">{count}</div>
+        <p>that&#39;s a lot of asses</p>
+    
       </div>
     </div>
   );
