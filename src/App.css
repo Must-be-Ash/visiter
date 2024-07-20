@@ -13,18 +13,16 @@ body {
 
 .container {
   text-align: center;
-  background-color: rgba(255, 255, 255, 0.8);
   padding: 2rem;
-  border-radius: 10px;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h1 {
-  color: #333;
+  color: #fff;
 }
 
 .counter {
   font-size: 3rem;
+  font-weight: 600;
   color: #af4261;
   margin: 1rem 0;
 }
