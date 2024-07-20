@@ -24,9 +24,8 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1>Here&rsquo;s how many people </h1>
-        <h1>have sat here before you!</h1>
         <div className="counter">{count}</div>
+        <h1>Have sat here before you!</h1>
         <p>that&#39;s a lot of asses</p>
     
       </div>
