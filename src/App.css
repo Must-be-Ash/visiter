@@ -26,10 +26,8 @@ p {
 
 .counter {
   background-color: rgba(255, 255, 255, 0.8);
-  padding: 1rem;
-  border-radius: 150px;
+  border-radius: 50px;
   font-size: 6rem;
   font-weight: 600;
   color: #333;
-  margin: 1rem 0;
 }
