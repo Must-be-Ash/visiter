@@ -21,12 +21,15 @@ h1 {
 }
 
 p {
-    color: #fff;
+    color: #808080;
 }
 
 .counter {
-  font-size: 3rem;
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 2rem;
+  border-radius: 50px;
+  font-size: 6rem;
   font-weight: 600;
-  color: #af4261;
+  color: #333;
   margin: 1rem 0;
 }
