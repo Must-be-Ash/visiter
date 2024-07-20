@@ -20,6 +20,10 @@ h1 {
   color: #fff;
 }
 
+p {
+    color: #fff;
+}
+
 .counter {
   font-size: 3rem;
   font-weight: 600;
